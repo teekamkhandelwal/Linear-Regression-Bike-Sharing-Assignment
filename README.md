@@ -3,6 +3,8 @@
 
 ![image](https://user-images.githubusercontent.com/72481400/224473911-b55c1943-e60c-4d79-8d4b-db70e15f9459.png)
 
+                                                               [1]
+
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -45,6 +47,9 @@ Give credit here.
 
 ## Contact
 Created by [@teekamkhandelwal] - feel free to contact me!
+
+## Refrence
+[1] https://www.dataquest.io/blog/sql-basics/
 
 
 <!-- Optional -->
