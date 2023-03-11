@@ -1,4 +1,4 @@
-# Project Name
+# Linear-Regression-Bike-Sharing-Assignment
 > Outline a brief description of your project.
 
 
@@ -42,7 +42,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@teekamkhandelwal] - feel free to contact me!
 
 
 <!-- Optional -->
