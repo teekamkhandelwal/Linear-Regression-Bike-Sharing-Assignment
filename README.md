@@ -1,6 +1,8 @@
 # Bike-Sharing-Assignment(Using Linear Regression Model)
 > A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
 
+![image](https://user-images.githubusercontent.com/72481400/224473911-b55c1943-e60c-4d79-8d4b-db70e15f9459.png)
+
 
 ## Table of Contents
 * [General Info](#general-information)
