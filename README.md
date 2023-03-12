@@ -24,21 +24,6 @@ Company want to understand the factors affecting the demand for these shared bik
 
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-
-
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Conclusion
 
 **followig is the significant varables-**
 
@@ -51,6 +36,17 @@ Company want to understand the factors affecting the demand for these shared bik
 - yr
 - temp
 - windspeed
+
+
+## Technologies Used
+- library - version 1.0
+- library - version 2.0
+- library - version 3.0
+
+<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+
+
+
 
 
 
