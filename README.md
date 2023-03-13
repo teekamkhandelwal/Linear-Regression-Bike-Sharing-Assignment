@@ -39,9 +39,13 @@ Company want to understand the factors affecting the demand for these shared bik
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- numpy - Version: 1.21.5
+- pandas - Version: 1.4.4
+- matplotlib - Version: 3.5.2
+- seaborn - Version: 0.11.2
+- sklearn - version 0.24.2
+- statsmodels - Version: 0.13.2
+
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
