@@ -61,6 +61,11 @@ Created by [@teekamkhandelwal] - feel free to contact me!
 [1] https://www.dataquest.io/blog/sql-basics/
 
 
+**Note:-**
+* Data used for this project persent in data folder.
+* **Linear_Regression_Subjective_Questions answer file  as a pdf is also persent in Data folder.**
+* **python programming file is persent in Python folder** 
+
 <!-- Optional -->
 <!-- ## License -->
 <!-- This project is open source and available under the [MIT License](). -->
